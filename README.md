@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=WELCOME+TO+TOXIC-ALEXA;THIS+BOT+MADE+BY+TURBO+%26+JIFI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=WELCOME+TO+NUCLE-FLASH;THIS+BOT+MADE+BY+CYBERKID+%26+JIFI)](https://git.io/typing-svg)
 <div align="center">
         <img src="https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg" alt="GIF" width="250" height="250"/>
 </p>
@@ -9,14 +9,14 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/TURBOHYPER">Turbo-Jifi</a> to make it public
+Project created by <a href="https://github.com/CYBERXKID">Cyber-Jifi</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TURBOHYPER/Toxic-Alexa&title=Toxic-Alexa%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CYBERXKID/Nucle-Flash&title=Nucle-Flash%20Views)
 
 ## Setup
 <div align="center">
@@ -25,56 +25,56 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo-Jifi</a> to mak
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-Alexa?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Nucle-Flash) 
         
-<a href="https://github.com/TURBOHYPER/Toxic-Alexa/fork"><img align="center" src="https://i.imgur.com/nfRl7cd.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/CYBERXKID/Nucle-Flash/fork"><img align="center" src="https://i.imgur.com/nfRl7cd.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
         
 1. Click [SCAN](https://replit.com/@TURBOHYPER/Toxic-Alexa?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (ALEXA_QR_CODE).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/TURBOHYPER/Toxic-Alexa/fork)
+4. Click [FORK](https://github.com/CYBERXKID/Nucle-Flash/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa
+https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Nucle-Flash
 ``` 
-6. Now change TURBOHYPER with your github username and click ENJOY<br>
+6. Now change CYBERXKID with your github username and click ENJOY<br>
    <br>
 # Contact for help:
-   * Click [Contact](https://wa.me/916380260672?text=Need+Help🙂) Here For Contact Toxic-Turbo
+   * Click [Contact](https://wa.me/+27686881509?text=Need+Help🙂) Here For Contact Nucle-Flash
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
+$ git clone https://github.com/TURBOHYPER/Nucle-Flash
 $ cd Toxic-Alexa
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node toxic-alexa.js
+$ node nucle-flash.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
-$ cd Toxic-Alexa
+$ git clone https://github.com/TURBOHYPER/Nucle-Flash
+$ cd Nucle-Flash
 $ npm i
-$ node toxic-alexa.js
+$ node nucle-flash.js
 ```
 
 ----
 
   <p align="center">
-  <a href="https://github.com/TURBOHYPER/Toxic-Alexa">
+  <a href="https://github.com/CYBERXKID/Nucle-Flash">
     
-<a href="https://github.com/TURBOHYPER/followers">
+<a href="https://github.com/CYBERXKID/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/TURBOHYPER/Toxic-Alexa/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/TOXICTURBO?color=blue&style=flat-square"></a>
-<a href="https://github.com/TURBOHYPER/Toxic-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TURBOHYPER/Toxic-Alexa?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/TURBOHYPER/Toxic-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TURBOHYPER/Toxic-Alexa?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/CYBERXKID/Nucle-Flash/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/CYBERXKID/Nucle-Flash?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/CYBERXKID/Nucle-Flash/network/members"><img title="Forks" src="https://img.shields.io/github/forks/CYBERXKID/Nucle-Flash?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
@@ -93,15 +93,6 @@ Click WA logo to Join public bot Group👇
 
   </div>
 
-### youtube👇
-
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://www.youtube.com/c/TurboMods)
-
-
-### contact on instagram👇
-
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/toxic_turbo777)
-
 
 ### ⚠️ Warning! 
 ```
@@ -114,9 +105,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TURBOHYPER) | [![Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Afx-Abu](https://github.com/Afx-Abu.png?size=100)](https://github.com/Afx-Abu) 
+  [![Flash](https://github.com/CYBERXKID.png?size=100)](https://github.com/CYBERKID) | [![Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Afx-Abu](https://github.com/Afx-Abu.png?size=100)](https://github.com/Afx-Abu) 
 ----|----|----
-[Turbo](https://github.com/TURBOHYPER) | [Jifi](https://github.com/MD-JIFI) | [Afx-Abu](https://github.com/Afx-Abu) 
+[Turbo](https://github.com/CYBERXKID) | [Jifi](https://github.com/MD-JIFI) | [Afx-Abu](https://github.com/Afx-Abu) 
 Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |  Bug Fixes
   </div>
     
