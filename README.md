@@ -29,10 +29,7 @@ Project created by <a href="https://github.com/CYBERXKID">Cyber-Jifi</a> to make
         
 <a href="https://github.com/CYBERXKID/Nucle-Flash/fork"><img align="center" src="https://i.imgur.com/nfRl7cd.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
-        
-   <br>
-# Contact for help:
-   * Click [Contact](https://wa.me/+27686881509?text=Need+Help🙂) Here For Contact Nucle-Flash
+   
  
 ### The Hard Method
 ```js
