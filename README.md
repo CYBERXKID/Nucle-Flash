@@ -95,7 +95,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![Flash](https://github.com/CYBERXKID.png?size=100)](https://github.com/CYBERKID) | [![Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Afx-Abu](https://github.com/Afx-Abu.png?size=100)](https://github.com/Afx-Abu) 
 ----|----|----
-[Turbo](https://github.com/CYBERXKID) | [Jifi](https://github.com/MD-JIFI) | [Afx-Abu](https://github.com/Afx-Abu) 
+[CYBER](https://github.com/CYBERXKID) | [Jifi](https://github.com/MD-JIFI) | [Afx-Abu](https://github.com/Afx-Abu) 
 Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |  Bug Fixes
   </div>
     
