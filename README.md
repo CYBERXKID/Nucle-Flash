@@ -45,7 +45,7 @@ $ node nucle-flash.js
       
 ```js
 SETUP
-$ git clone https://github.com/TURBOHYPER/Nucle-Flash
+$ git clone https://github.com/CYBERXKID/Nucle-Flash
 $ cd Nucle-Flash
 $ npm i
 $ node nucle-flash.js
@@ -59,8 +59,8 @@ $ node nucle-flash.js
 <a href="https://github.com/CYBERXKID/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/TURBOHYPER/Toxic-Alexa/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/TOXICTURBO?color=blue&style=flat-square"></a>
+<a href="https://github.com/CYBERXKID/Nucle-Flash/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/NUCLEFLASH?color=blue&style=flat-square"></a>
 <a href="https://github.com/CYBERXKID/Nucle-Flash/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/CYBERXKID/Nucle-Flash?color=blue&style=flat-trangle"></a>
 <a href="https://github.com/CYBERXKID/Nucle-Flash/network/members"><img title="Forks" src="https://img.shields.io/github/forks/CYBERXKID/Nucle-Flash?color=blue&style=flat-trangle"></a>
 </p>
